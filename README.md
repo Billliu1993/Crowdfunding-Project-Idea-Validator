@@ -1,1 +1,0 @@
-# Crowdfunding-Project-Idea-Validator
